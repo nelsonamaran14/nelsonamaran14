@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nelson 👋
 
-<!--
-**nelsonamaran14/nelsonamaran14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Software Developer with 2.8+ years in enterprise Java, IBM BAW/BPM and Angular  
+🏦 Worked on banking projects — SBI Life Insurance, Commercial Bank of Ceylon  
+🚀 Currently growing into Java/Spring Boot backend development and IBM Business Automation Workflow  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Backend:** Java, Spring Boot, IBM BAW/BPM, REST APIs
+- **Frontend:** Angular, HTML, CSS, JavaScript, jQuery
+- **Tools:** IBM FileNet, OpenShift OCP4, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm working on
+- Building Spring Boot projects
+- Deepening my IBM BAW expertise
+
+## 📫 Connect with me
+www.linkedin.com/in/nelson-amaran
